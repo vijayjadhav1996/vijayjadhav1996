@@ -38,8 +38,8 @@ I post small but valuable coding concepts I learn every day. Let’s grow togeth
 ---
 
 ### 📫 Connect with Me:
-- 💼 GitHub: [github.com/Arhum049](https://github.com/Arhum049)
-- 💼 LinkedIn: [linkedin.com/in/arhum049](https://www.linkedin.com/in/arhum049)
+- 💼 GitHub: [github.com/vijayjadhav1996](https://github.com/vijayjadhav1996)
+- 💼 LinkedIn: [linkedin.com/in/bhaktivijayjadhav](linkedin.com/in/bhaktivijayjadhav)
 - 🌱 Let's collaborate on open source, mini projects, or just chat tech!
 
 ---
